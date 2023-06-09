@@ -1,0 +1,29 @@
+.button {
+    background-color: #a568f1;
+    color: #fff;
+    padding: 10px 25px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #9d61e6;
+}
+
+.button:active {
+    background-color: rgb(150, 92, 221);
+}
+
+.button.secondary {
+    background-color: #464646;
+}
+
+.button.secondary:hover {
+    background-color: #3b3b3b;
+}
+
+.button.secondary:active {
+    background-color: #313131;
+}

@@ -1,0 +1,9 @@
+.base-layout {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    background-color: #ffffff0e;
+    border-radius: 10px;
+    margin: 50px auto;
+    overflow: hidden;
+}

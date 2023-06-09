@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: #ffffff0e;
+    padding: 15px 20px;
+}
+
+.nav > h2 {
+    text-transform: uppercase;
+    user-select: none;
+    margin: 5px 0px;
+}
+
+.nav > h2 > span{
+    color: #a568f1;
+}
